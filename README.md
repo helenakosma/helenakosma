@@ -9,6 +9,7 @@
 - 🎓 3rd year Computer Science @ TMU
 - 🔧 prev. Controls Engineering Intern @ Tesla; helped build real-time manufacturing tools
 - 🌸 i like clean backends and colorful frontends
+- 🤖 dabbling in hardware here and there
 - 🛍️ currently building [Shopkin Cachette](https://github.com/helenakosma/shopkin-cachette), a Flask + Vue 3 collection tracker
 
 ---
