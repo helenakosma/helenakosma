@@ -1,4 +1,4 @@
-# hi, i'm helena 🛍️
+# hi, i'm helena 🌹
 
 > cs student @ toronto metropolitan · prev. controls engineering @ tesla · building fun things on the side
 
