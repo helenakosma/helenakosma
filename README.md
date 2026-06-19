@@ -20,12 +20,3 @@
 </p>
 
 ---
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/helenakosmajac/">
-    <img src="https://img.shields.io/badge/LinkedIn-fce4ec?style=for-the-badge&logo=linkedin&logoColor=c2185b"/>
-  </a>
-  <a href="mailto:kosmahelena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fce4ec?style=for-the-badge&logo=gmail&logoColor=c2185b"/>
-  </a>
-</p>
