@@ -1,6 +1,6 @@
 # hi, i'm helena 🌹
 
-> cs student @ toronto metropolitan · prev. controls engineering @ tesla · building fun things on the side
+> cs student @ toronto metropolitan · prev. coding machines @ tesla · building fun things on the side
 
 ---
 
