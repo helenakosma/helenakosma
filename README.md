@@ -6,7 +6,7 @@
 
 ### 🧁 about me
 
-- 🎓 3rd year Computer Science @ TMU
+- 🎓 3rd/4th year Computer Science @ TMU
 - 🔧 prev. Controls Engineering Intern @ Tesla; helped code real-time production tools
 - 🌸 i like clean backends and colorful frontends
 - 🤖 dabbling in hardware here and there
