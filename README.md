@@ -7,10 +7,10 @@
 ### 🧁 about me
 
 - 🎓 3rd year Computer Science @ TMU
-- 🔧 prev. Controls Engineering Intern @ Tesla; helped build real-time manufacturing tools
+- 🔧 prev. Controls Engineering Intern @ Tesla; helped code real-time production tools
 - 🌸 i like clean backends and colorful frontends
 - 🤖 dabbling in hardware here and there
-- 🛍️ currently building [Shopkin Cachette](https://github.com/helenakosma/shopkin-cachette), an Electron + React collection tracker
+- 🛍️ currently building [Shopkin Cachette](https://github.com/helenakosma/shopkin-cachette), and Mimi (coming soon)
 
 ---
 
